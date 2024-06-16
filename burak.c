@@ -3,4 +3,5 @@
 int main()
 {
 	printf("mal2");
+	printf("mall");
 }
